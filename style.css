@@ -114,7 +114,7 @@ a:link {
     margin: auto;
 }
 
-/* #matricula {
+#matricula {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
@@ -128,7 +128,7 @@ a:link {
     margin: 8px 0;
     box-sizing: border-box;
     margin-bottom: 10px;
-} */
+}
 
 #datanascimento {
     width: 100%;
@@ -146,13 +146,13 @@ a:link {
     margin-bottom: 10px;
 }
 
-/* #serie {
+#serie {
     width: 100%;
     padding: 12px 20px;
     margin: 8px 0;
     box-sizing: border-box;
     margin-bottom: 10px;
-} */
+}
 
 #nome {
     width: 100%;
